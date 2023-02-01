@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+WebApp - TV shows 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Description 
 
-## Available Scripts
+You are the owner of an OTT platform in Atlantic City, on the theatrical home world of Atlanta. Your customers are bored with the never-changing selection and are asking for something completely different - they want to see what’s playing on Earth. You are the main exporter of Computer Technology for the New Republic, so naturally you roll up your sleeves and get to work. You quickly scribble down some notes and after a few hours of relentless work, you have a design in mind. 
 
-In the project directory, you can run:
+ 
 
-### `npm start`
+Tasks 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Implement your designs using Components and style them using CSS3 
+Connect your application to the TV Maze Show APIs at https://www.tvmaze.com/api 
+Parse the API response and display the results as outlined in the design. Group shows by category. 
+Implement a detailed view of the shows in the list 
+Make sure that bookmarking/linking to detail pages works as expected 
+Implement search by connecting to http://api.tvmaze.com/search/shows?q=<search_term> 
+You may use any state management library of your choice as well as common routing libraries 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ 
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Evaluation Criteria 
+Design implemented according to attached files 
+Routing implemented (list, detail) + bookmarking 
+Connect to API - shows retrieved, JSON parsed, grouped by category 
+Connecting to API Search, search functionality is working 
+Bonus: Use the shows backdrop image creatively 
+Bonus: Use the shows slug for routing 
+Bonus: If you create your own API and DB to enable signup/login for the user 
