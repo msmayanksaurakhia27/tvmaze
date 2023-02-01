@@ -28,12 +28,4 @@ You are the owner of a OTT platform in **Atlantic City,** on the Theatrical home
 [React Docs](https://reactjs.org/docs)
 [Angular Docs](https://angular.io/docs)
 
-### CodeSubmit
-Please write all the code for assignment in a GitHub repository.
 
-Please organize, design, test and document your code as if it were
-going into production - then push your changes to the master branch. Share the link with us upon completion of assignment.
-
-All the best and happy coding,
-
-CyberGroup
