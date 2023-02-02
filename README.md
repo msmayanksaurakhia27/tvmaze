@@ -26,3 +26,11 @@ Connecting to API Search, search functionality is working
 Bonus: Use the shows backdrop image creatively 
 Bonus: Use the shows slug for routing 
 Bonus: If you create your own API and DB to enable signup/login for the user 
+
+Instruction to Run Application on localhost 
+Commands--
+npm install 
+npm start
+
+Website URL hosted on amazon 
+http://tvmaze.s3-website.ap-south-1.amazonaws.com/
